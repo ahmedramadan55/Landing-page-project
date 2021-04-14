@@ -26,6 +26,7 @@ When you click on an item of the navigation menu ,it will display the section th
 
 ## Instructions 
 
+To view the page follow the steps below:
 * Download the repository.
 * Open index.html file to view the page.
 
